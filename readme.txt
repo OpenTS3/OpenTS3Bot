@@ -1,4 +1,4 @@
-OpenTS3MusicBot v. preAlpha 0.01 - 12.08.2014
+OpenTS3Bot v. preAlpha 0.01 - 12.08.2014
 
 Hier ist nur die index.html enthalten!
 
@@ -12,7 +12,7 @@ Anleitung 2: TS3 Musikbot für Linux erstellen: http://www.hendrik-haas.de/tutori
 Viel Spaß beim Testen und Benutzen. Bei Fragen usw. wendet euch an mich per mail@hendrik-haas.de oder kommt auf unser TS3: ts3.hendrik-haas.de:9988
 
 
-Copyright (C) 2014  Hendrik Haas - OpenTS3MusicBot
+Copyright (C) 2014  Hendrik Haas - OpenTS3Bot
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110, USA 

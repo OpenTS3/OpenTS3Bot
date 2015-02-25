@@ -192,8 +192,8 @@ form.login div input[type="submit"] {
 <html>
 <head>
 <title>Webinterface-TS3-Bot</title>
-<meta name="description" content="Webinterface-TS3-MusicBot">
-<meta name="keywords" content="Webinterface-TS3-MusicBot">
+<meta name="description" content="Webinterface-TS3-Bot">
+<meta name="keywords" content="Webinterface-TS3-Bot">
 <meta name="author" content="Hendrik Haas">
 <meta charset="UTF-8">
           <style type="text/css" media="all">
@@ -242,7 +242,7 @@ form.login div input[type="submit"] {
                                                 
                                           </ul> <!--
                                                         <div id="copyright" >
-                                         					&copy; by Hendrik Haas - DJ MacHack and OpenTS3MusicBot
+                                         					&copy; by Hendrik Haas - DJ MacHack and OpenTS3Bot
                                                         </div> -->
                                          </div>
                                 </div>

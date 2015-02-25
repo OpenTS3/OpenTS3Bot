@@ -1,4 +1,8 @@
-OpenTS3-MusicBot
+OpenTS3Bot
 ================
 
-Free and open source Music Bot for TS3 with Interface
+Free and open source Bot for TS3 with Interface
+
+Features:
+preAlpha 0.01
+none
