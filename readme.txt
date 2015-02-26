@@ -3,11 +3,11 @@ OpenTS3Bot v. preAlpha 0.01 - 12.08.2014
 Hier ist nur die index.html enthalten!
 
 Damit ihr eine Funktion in das Design einbetten könnt, müsst ihr entweder ein Datenbanksytem usw. dazuskripten oder einfach das Webinterface 
-von VLC-Media-Player aktivieren und im Quelltext an der richtigen Stelle eure IP:Port eingeben.Danach alles auf einen Webserver uploaden und
+von VLC-Media-Player aktivieren und im Quelltext an der richtigen Stelle eure IP:Port eingeben. Danach alles auf einen Webserver uploaden und
 ihr solltet den Bot nutzen können.
 
 Anleitung 1: vServer Desktopumgebung visualisieren: http://www.hendrik-haas.de/tutorials/vserver-desktopumgebung-visualisieren/
-Anleitung 2: TS3 Musikbot für Linux erstellen: http://www.hendrik-haas.de/tutorials/ts3-musikbot-fuer-linux-erstellen/ Dabei den VLC-Media-Player konfigurieren.
+Anleitung 2: TS3 Bot für Linux erstellen: http://www.hendrik-haas.de/tutorials/ts3-bot-fuer-linux-erstellen/ Dabei den VLC-Media-Player konfigurieren.
 
 Viel Spaß beim Testen und Benutzen. Bei Fragen usw. wendet euch an mich per mail@hendrik-haas.de oder kommt auf unser TS3: ts3.hendrik-haas.de:9988
 
